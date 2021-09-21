@@ -22,6 +22,7 @@
     @include responsive(765px) {
       width: 300px;
       bottom: -500px;
+      right: 100px;
     }
 
     &-h6 {
